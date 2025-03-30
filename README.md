@@ -50,7 +50,7 @@ Connect your SSD1306 OLED display to the ESP32 as follows:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/matrix-esp.git
+   git clone https://github.com/theninza/matrix-esp.git
    cd matrix-esp
    ```
 
